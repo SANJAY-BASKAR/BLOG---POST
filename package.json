@@ -13,9 +13,10 @@
   },
   "packageManager": "npm@10.5.2",
   "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
+
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.2",
     "@sanity/image-url": "^1.1.0",
